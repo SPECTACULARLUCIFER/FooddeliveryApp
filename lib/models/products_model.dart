@@ -29,7 +29,7 @@ class Product
 
 
 class ProductModel {
-  int ? id;
+  int? id;
   String? name;
   String? description;
   int? price;
@@ -39,6 +39,7 @@ class ProductModel {
   String? createdAt;
   String?updatedAt;
   int? typeId;
+  
   ProductModel({
     this.id,
     this.name,
