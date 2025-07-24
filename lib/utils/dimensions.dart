@@ -47,4 +47,7 @@ static double popularFoodImgSize = screenHeight/2.47;
 //bottom height
 static double bottomHeightBar = screenHeight/7.21;
 
+//splash screen dimensions
+static double splashImg = screenHeight/3.38;
+
 }
